@@ -1,5 +1,5 @@
-#local host
-a simple way to serve files over http
+# local host
+a simple way to serve local files over http
 
 ## Usage
 
